@@ -7,7 +7,6 @@ This project involves predicting future sales based on historical sales data usi
 ## Project Structure
 
 - `sales_prediction.ipynb`: Jupyter Notebook containing the code for data analysis, preprocessing, model training, and visualization.
-- `sales_data.csv`: CSV file containing the dataset with historical sales data.
 - `README.md`: This file providing an overview and instructions for the project.
 
 ## Dependencies
